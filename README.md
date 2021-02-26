@@ -13,12 +13,13 @@ In this project you will detect lane lines in images using Python and OpenCV.  O
 
 The Project
 ---
-**Step 1:** Installing Visual Studio Code as your working IDE
-<img src="VisualStudioCode_iPynb.png" width="480" alt="Combined Image" />
+**Step 1:** Installing Visual Studio Code as your working IDE - [Visual Studio Code](https://code.visualstudio.com/)
 
 **Step 2:** Set up the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) if you haven't already.
 
 **Step 3:** Open the code in a Jupyter Notebook - Visual Studio Code
- 
+<img src="VisualStudioCode_iPynb.png" width="480" alt="Combined Image" />
+
+
 
 
