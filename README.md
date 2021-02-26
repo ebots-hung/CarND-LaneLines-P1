@@ -21,7 +21,7 @@ The Project
 
 <img src="VisualStudioCode_iPynb.png" width="480" alt="Combined Image" />
 
-**Step 4:** Open P1.ipynb and run Lane finding pipeline
+**Step 4:** Open P1.ipynb and run Lane finding pipelines
 
 **Lane finding pipelines Block Diagram**
 
