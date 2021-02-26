@@ -18,8 +18,11 @@ The Project
 **Step 2:** Set up the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) if you haven't already.
 
 **Step 3:** Open the code in a Jupyter Notebook - Visual Studio Code
+
 <img src="VisualStudioCode_iPynb.png" width="480" alt="Combined Image" />
 
+**Step 4:** Open P1.ipynb and run Lane finding pipeline
 
+<img src="FindingLanes_pipeline1.png" width="480" alt="Combined Image" /> 
 
-
+<img src="FindingLanes_pipeline2.png" width="480" alt="Combined Image" />
