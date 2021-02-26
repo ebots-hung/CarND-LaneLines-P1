@@ -23,10 +23,10 @@ The Project
 
 **Step 4:** Open P1.ipynb and run Lane finding pipeline
 
-Lane finding pipelines Block Diagram
+**Lane finding pipelines Block Diagram**
 <img src="LanesFinding_Blockdiagram.jpg" width="480" alt="Combined Image" />
 
 
-Lane finding pipelines Execution
+**Lane finding pipelines Execution**
 <img src="FindingLanes_pipeline1.png" width="480" alt="Combined Image" /> 
 <img src="FindingLanes_pipeline2.png" width="480" alt="Combined Image" />
